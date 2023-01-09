@@ -1,1 +1,1 @@
-Testing repositary
+Testing repository
